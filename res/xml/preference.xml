@@ -1,0 +1,16 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="Choose your bet in €">
+
+        <ListPreference
+                android:key="betPre"
+                android:entries="@array/bet"
+                android:entryValues="@array/bet"
+                android:title="Choose your bet"
+                 />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

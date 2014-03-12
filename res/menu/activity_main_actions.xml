@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- To choose the bet... -->
+    <item android:id="@+id/bet_choosing"
+          android:title="@string/action_bar"
+          android:showAsAction="ifRoom"/>
+
+</menu>
